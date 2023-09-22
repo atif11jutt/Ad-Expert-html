@@ -820,6 +820,7 @@ figure.image {
   -webkit-animation: pulse 1s infinite linear;
           animation: pulse 1s infinite linear;
   background-image: url(../images/favicon.png);
+  background-size: contain;
   content: "";
 }
 
